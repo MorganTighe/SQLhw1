@@ -1,1 +1,2 @@
 # SQLhw1
+In this project, I created an ERD using QuickDatabaseDiagrams.com and then I exported my schema to Postgres to create the tables. After manually importing the data, I started querying to analyze the data. 
